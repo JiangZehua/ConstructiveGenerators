@@ -1,0 +1,4 @@
+numpy
+pcg_benchmark @ git+https://github.com/amidos2006/pcg_benchmark.git@main
+Pillow
+matplotlib
